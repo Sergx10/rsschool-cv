@@ -17,3 +17,8 @@
  * russian - Native
  * english - A1
 ## Code examlpe
+ ```JS
+  function FirstFunc(a,b) {
+    return a*b
+  }
+  ```
