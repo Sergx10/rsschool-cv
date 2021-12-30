@@ -10,6 +10,7 @@
  * Delphi
  * Pascal
  * Basic
+ * HTML, CSS - based level
 ## Education
  * Yanka Kupala State University (1994-1999)
    * teacher of mathematics
