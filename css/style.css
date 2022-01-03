@@ -1,0 +1,19 @@
+.center_block{
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em
+}
+main {
+ background-color: lightgrey;
+}
+header {
+ background-color: lightblue;
+}
+footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    color: #ffffff;
+    background-color:bisque; 
+}
