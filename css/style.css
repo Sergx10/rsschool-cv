@@ -1,4 +1,6 @@
 .center_block{
+    flex-direction: column;
+    justify-content: center;
     margin-left: auto;
     margin-right: auto;
     width: 30em
@@ -7,7 +9,10 @@ main {
  background-color: lightgrey;
 }
 header {
- background-color: lightblue;
+    padding: 15 15 15 15;
+    align-content: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: lightblue;
 }
 footer {
     display: flex;
